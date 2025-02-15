@@ -154,29 +154,29 @@ new/fast:
 	$(MAKE) $(MAKESILENT) -f new\CMakeFiles\new.dir\build.make new/CMakeFiles/new.dir/build
 .PHONY : new/fast
 
-main.obj: main.cpp.obj
-.PHONY : main.obj
+ma.obj: ma.cpp.obj
+.PHONY : ma.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab1.dir\build.make CMakeFiles/lab1.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+ma.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab1.dir\build.make CMakeFiles/lab1.dir/ma.cpp.obj
+.PHONY : ma.cpp.obj
 
-main.i: main.cpp.i
-.PHONY : main.i
+ma.i: ma.cpp.i
+.PHONY : ma.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab1.dir\build.make CMakeFiles/lab1.dir/main.cpp.i
-.PHONY : main.cpp.i
+ma.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab1.dir\build.make CMakeFiles/lab1.dir/ma.cpp.i
+.PHONY : ma.cpp.i
 
-main.s: main.cpp.s
-.PHONY : main.s
+ma.s: ma.cpp.s
+.PHONY : ma.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab1.dir\build.make CMakeFiles/lab1.dir/main.cpp.s
-.PHONY : main.cpp.s
+ma.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\lab1.dir\build.make CMakeFiles/lab1.dir/ma.cpp.s
+.PHONY : ma.cpp.s
 
 # Help Target
 help:
@@ -189,9 +189,9 @@ help:
 	@echo ... lab1
 	@echo ... mymath
 	@echo ... new
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... ma.obj
+	@echo ... ma.i
+	@echo ... ma.s
 .PHONY : help
 
 

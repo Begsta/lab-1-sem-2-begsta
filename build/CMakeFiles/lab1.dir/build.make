@@ -71,28 +71,28 @@ include CMakeFiles/lab1.dir/flags.make
 CMakeFiles/lab1.dir/codegen:
 .PHONY : CMakeFiles/lab1.dir/codegen
 
-CMakeFiles/lab1.dir/main.cpp.obj: CMakeFiles/lab1.dir/flags.make
-CMakeFiles/lab1.dir/main.cpp.obj: H:/new-project-by-programming/lab1-sem-2-begsta/main.cpp
-CMakeFiles/lab1.dir/main.cpp.obj: CMakeFiles/lab1.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=H:\new-project-by-programming\lab1-sem-2-begsta\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab1.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab1.dir/main.cpp.obj -MF CMakeFiles\lab1.dir\main.cpp.obj.d -o CMakeFiles\lab1.dir\main.cpp.obj -c H:\new-project-by-programming\lab1-sem-2-begsta\main.cpp
+CMakeFiles/lab1.dir/ma.cpp.obj: CMakeFiles/lab1.dir/flags.make
+CMakeFiles/lab1.dir/ma.cpp.obj: H:/new-project-by-programming/lab1-sem-2-begsta/ma.cpp
+CMakeFiles/lab1.dir/ma.cpp.obj: CMakeFiles/lab1.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=H:\new-project-by-programming\lab1-sem-2-begsta\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/lab1.dir/ma.cpp.obj"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/lab1.dir/ma.cpp.obj -MF CMakeFiles\lab1.dir\ma.cpp.obj.d -o CMakeFiles\lab1.dir\ma.cpp.obj -c H:\new-project-by-programming\lab1-sem-2-begsta\ma.cpp
 
-CMakeFiles/lab1.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/lab1.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E H:\new-project-by-programming\lab1-sem-2-begsta\main.cpp > CMakeFiles\lab1.dir\main.cpp.i
+CMakeFiles/lab1.dir/ma.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/lab1.dir/ma.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E H:\new-project-by-programming\lab1-sem-2-begsta\ma.cpp > CMakeFiles\lab1.dir\ma.cpp.i
 
-CMakeFiles/lab1.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/lab1.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S H:\new-project-by-programming\lab1-sem-2-begsta\main.cpp -o CMakeFiles\lab1.dir\main.cpp.s
+CMakeFiles/lab1.dir/ma.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/lab1.dir/ma.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S H:\new-project-by-programming\lab1-sem-2-begsta\ma.cpp -o CMakeFiles\lab1.dir\ma.cpp.s
 
 # Object files for target lab1
 lab1_OBJECTS = \
-"CMakeFiles/lab1.dir/main.cpp.obj"
+"CMakeFiles/lab1.dir/ma.cpp.obj"
 
 # External object files for target lab1
 lab1_EXTERNAL_OBJECTS =
 
-lab1.exe: CMakeFiles/lab1.dir/main.cpp.obj
+lab1.exe: CMakeFiles/lab1.dir/ma.cpp.obj
 lab1.exe: CMakeFiles/lab1.dir/build.make
 lab1.exe: mymath/libmymath.a
 lab1.exe: new/libnew.a
