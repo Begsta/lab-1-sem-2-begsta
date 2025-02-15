@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libnew.a CMakeFiles/new.dir/new.cpp.obj
+C:\MinGW\bin\ranlib.exe libnew.a

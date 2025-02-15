@@ -99,4 +99,6 @@ CMakeFiles/lab1.dir/main.cpp.obj: \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\basic_ios.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\ostream.tcc \
  c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\istream \
- c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc
+ c:\mingw\lib\gcc\mingw32\6.3.0\include\c++\bits\istream.tcc \
+ H:\new-project-by-programming\lab1-sem-2-begsta\mymath/mymath.h \
+ H:\new-project-by-programming\lab1-sem-2-begsta\new/new.h

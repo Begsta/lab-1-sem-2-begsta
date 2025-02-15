@@ -94,6 +94,8 @@ lab1_EXTERNAL_OBJECTS =
 
 lab1.exe: CMakeFiles/lab1.dir/main.cpp.obj
 lab1.exe: CMakeFiles/lab1.dir/build.make
+lab1.exe: mymath/libmymath.a
+lab1.exe: new/libnew.a
 lab1.exe: CMakeFiles/lab1.dir/linkLibs.rsp
 lab1.exe: CMakeFiles/lab1.dir/objects1.rsp
 lab1.exe: CMakeFiles/lab1.dir/link.txt

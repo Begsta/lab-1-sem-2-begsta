@@ -7,6 +7,7 @@ set(CMAKE_DEPENDS_GENERATOR "MinGW Makefiles")
 # The top level Makefile was generated from the following files:
 set(CMAKE_MAKEFILE_DEPENDS
   "CMakeCache.txt"
+  "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCInformation.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCXXInformation.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeGenericSystem.cmake"
@@ -16,15 +17,21 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+  "C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/GNU-C.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/GNU-CXX.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/GNU.cmake"
+  "C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+  "C:/Program Files/CMake/share/cmake-3.31/Modules/Linker/GNU-C.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Linker/GNU-CXX.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Linker/GNU.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/GNU.cmake"
+  "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-C.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU-CXX.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-GNU.cmake"
+  "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-GNU-C-ABI.cmake"
+  "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-GNU-C.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-GNU-CXX.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-GNU.cmake"
@@ -33,9 +40,12 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake"
   "H:/new-project-by-programming/lab1-sem-2-begsta/CMakeLists.txt"
+  "CMakeFiles/3.31.5/CMakeCCompiler.cmake"
   "CMakeFiles/3.31.5/CMakeCXXCompiler.cmake"
   "CMakeFiles/3.31.5/CMakeRCCompiler.cmake"
   "CMakeFiles/3.31.5/CMakeSystem.cmake"
+  "H:/new-project-by-programming/lab1-sem-2-begsta/mymath/CMakeLists.txt"
+  "H:/new-project-by-programming/lab1-sem-2-begsta/new/CMakeLists.txt"
   )
 
 # The corresponding makefile is:
@@ -47,9 +57,13 @@ set(CMAKE_MAKEFILE_OUTPUTS
 # Byproducts of CMake generate step:
 set(CMAKE_MAKEFILE_PRODUCTS
   "CMakeFiles/CMakeDirectoryInformation.cmake"
+  "mymath/CMakeFiles/CMakeDirectoryInformation.cmake"
+  "new/CMakeFiles/CMakeDirectoryInformation.cmake"
   )
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/lab1.dir/DependInfo.cmake"
+  "mymath/CMakeFiles/mymath.dir/DependInfo.cmake"
+  "new/CMakeFiles/new.dir/DependInfo.cmake"
   )

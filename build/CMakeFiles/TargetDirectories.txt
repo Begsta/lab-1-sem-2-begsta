@@ -1,3 +1,9 @@
 H:/new-project-by-programming/lab1-sem-2-begsta/build/CMakeFiles/lab1.dir
 H:/new-project-by-programming/lab1-sem-2-begsta/build/CMakeFiles/edit_cache.dir
 H:/new-project-by-programming/lab1-sem-2-begsta/build/CMakeFiles/rebuild_cache.dir
+H:/new-project-by-programming/lab1-sem-2-begsta/build/mymath/CMakeFiles/mymath.dir
+H:/new-project-by-programming/lab1-sem-2-begsta/build/mymath/CMakeFiles/edit_cache.dir
+H:/new-project-by-programming/lab1-sem-2-begsta/build/mymath/CMakeFiles/rebuild_cache.dir
+H:/new-project-by-programming/lab1-sem-2-begsta/build/new/CMakeFiles/new.dir
+H:/new-project-by-programming/lab1-sem-2-begsta/build/new/CMakeFiles/edit_cache.dir
+H:/new-project-by-programming/lab1-sem-2-begsta/build/new/CMakeFiles/rebuild_cache.dir
