@@ -1,0 +1,8 @@
+[
+{
+  "directory": "H:/new-project-by-programming/lab1-sem-2-begsta/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++1z -o CMakeFiles\\lab1.dir\\main.cpp.obj -c H:\\new-project-by-programming\\lab1-sem-2-begsta\\main.cpp",
+  "file": "H:/new-project-by-programming/lab1-sem-2-begsta/main.cpp",
+  "output": "CMakeFiles/lab1.dir/main.cpp.obj"
+}
+]
